@@ -79,6 +79,14 @@
             }
         },
         {
+            "Key": "40e7027c-5588-4421-a2a0-3e4f79e8435c",
+            "Value": {
+                "id": "22f356e9-7cf9-4247-ac07-ba8dafe4a28f",
+                "resourcePath": "sprites\\spriteCollision\\spriteCollision.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "4b1a1bb8-5c12-4df6-bf1b-54631767d66c",
             "Value": {
                 "id": "66268a93-1a1d-423b-9942-6672b290cf7c",
@@ -87,19 +95,27 @@
             }
         },
         {
+            "Key": "52fcb78f-aa45-4f39-9a26-7119a9cac928",
+            "Value": {
+                "id": "82dd27cc-7595-4e65-aafd-a899ade231e0",
+                "resourcePath": "objects\\objectGround\\objectGround.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "5992c2ed-6786-4c46-b4aa-c2bee50ea1f4",
+            "Value": {
+                "id": "dba3bc3a-57a2-4edf-bea8-0297b01b2cea",
+                "resourcePath": "tilesets\\tilesetGround\\tilesetGround.yy",
+                "resourceType": "GMTileSet"
+            }
+        },
+        {
             "Key": "72d2db6e-a7f9-4193-824c-56a42298e891",
             "Value": {
                 "id": "0ec7344d-0151-48d9-97db-cc6e21b18bc3",
                 "resourcePath": "views\\72d2db6e-a7f9-4193-824c-56a42298e891.yy",
                 "resourceType": "GMFolder"
-            }
-        },
-        {
-            "Key": "891de587-9193-4585-9e42-e023c1509d0b",
-            "Value": {
-                "id": "b7d22d13-005c-483b-a3d0-e908b9f3b16d",
-                "resourcePath": "objects\\objectGround\\objectGround.yy",
-                "resourceType": "GMObject"
             }
         },
         {
@@ -170,7 +186,7 @@
             "Key": "d8b160e4-63fe-4c6d-b2f6-64fd9637e98b",
             "Value": {
                 "id": "39a4d436-0c86-4544-9822-d8d070ca2c1d",
-                "resourcePath": "sprites\\spriteGround\\spriteGround.yy",
+                "resourcePath": "sprites\\spriteGroundTile\\spriteGroundTile.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -180,6 +196,14 @@
                 "id": "79c6dc23-a3f7-4a9a-b1f3-73fe54758ca3",
                 "resourcePath": "views\\e00388e3-fb7e-479a-9c26-0b92e312cf91.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "e088f50f-301e-49fe-b637-65be099f8edd",
+            "Value": {
+                "id": "92c17e93-4f19-46a1-b0e0-63df8d148848",
+                "resourcePath": "sprites\\spriteGround\\spriteGround.yy",
+                "resourceType": "GMSprite"
             }
         },
         {

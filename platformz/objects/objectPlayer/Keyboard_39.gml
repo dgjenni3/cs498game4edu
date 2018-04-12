@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 71B3AB68
-/// @DnDArgument : "speed" "walkSpeed"
-/// @DnDArgument : "type" "1"
-hspeed = walkSpeed;
+/// @DnDHash : 71A31B67
+/// @DnDArgument : "expr" "walkSpeed"
+/// @DnDArgument : "var" "phy_speed_x"
+phy_speed_x = walkSpeed;
