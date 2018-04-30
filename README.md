@@ -16,13 +16,13 @@ Contact Nathan, Doug, or Tyler if you have any remaining questions.
 ## Assessments
 >This course is designed to be assessed before and after the course. Both the Pretest and Posttest are split into two parts, an assessment of conceptual understanding and opinonated survey.
 
-[Conceptual Pretest](www.google.com)
+[Conceptual Pretest (not completed)](#)
 
-[Opinionated Pretest](www.google.com)
+[Opinionated Pretest](https://goo.gl/forms/vXNT1N2X8jGgG8V93)
 
-[Conceptual Posttest](www.google.com)
+[Conceptual Posttest](#)
 
-[Opinionated Posttest](www.google.com)
+[Opinionated Posttest (not completed)](https://goo.gl/forms/vXNT1N2X8jGgG8V93)
 
 # Course Map
 > If there is ever any time at the end of a session, let the students tinker with the code presented to them
