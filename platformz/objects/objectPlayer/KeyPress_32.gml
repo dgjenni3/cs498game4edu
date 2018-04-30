@@ -4,13 +4,13 @@
 /// @DnDArgument : "var" "jumping"
 if(jumping == 0)
 {
-	/// @DnDAction : YoYo Games.Common.Variable
+	/// @DnDAction : YoYo Games.Movement.Set_Speed
 	/// @DnDVersion : 1
-	/// @DnDHash : 77138B43
+	/// @DnDHash : 75AA55A9
 	/// @DnDParent : 2E2995AD
-	/// @DnDArgument : "expr" "-1 * jumpSpeed"
-	/// @DnDArgument : "var" "phy_speed_y"
-	phy_speed_y = -1 * jumpSpeed;
+	/// @DnDArgument : "speed" "-jumpSpeed"
+	/// @DnDArgument : "type" "2"
+	vspeed = -jumpSpeed;
 
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1

@@ -1,3 +1,15 @@
+/// @DnDAction : YoYo Games.Movement.Set_Gravity_Force
+/// @DnDVersion : 1
+/// @DnDHash : 59109DC3
+/// @DnDArgument : "force" "0.7"
+gravity = 0.7;
+
+/// @DnDAction : YoYo Games.Movement.Set_Friction
+/// @DnDVersion : 1
+/// @DnDHash : 1B892657
+/// @DnDArgument : "friction" "0.4"
+friction = 0.4;
+
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 38BCC475
@@ -8,9 +20,9 @@ walkSpeed = 6;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 2FD46E11
-/// @DnDArgument : "expr" "10"
+/// @DnDArgument : "expr" "15"
 /// @DnDArgument : "var" "jumpSpeed"
-jumpSpeed = 10;
+jumpSpeed = 15;
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

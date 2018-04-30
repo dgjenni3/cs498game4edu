@@ -2,7 +2,7 @@
 {
     "name": "room0",
     "id": "04218ce6-93a0-430b-843e-52ed0a0c4bd1",
-    "creationCodeFile": "",
+    "creationCodeFile": "RoomCreationCode.gml",
     "inheritCode": false,
     "inheritCreationOrder": false,
     "inheritLayers": false,
@@ -105,7 +105,7 @@
         "id": "ddc44d54-df75-483c-a3f6-9d689a767f60",
         "inheritPhysicsSettings": false,
         "modelName": "GMRoomPhysicsSettings",
-        "PhysicsWorld": true,
+        "PhysicsWorld": false,
         "PhysicsWorldGravityX": 0,
         "PhysicsWorldGravityY": 50,
         "PhysicsWorldPixToMeters": 0.1,
